@@ -42,11 +42,11 @@ features                                  :
 
   - title                                 : Structured course
     description                           : Go through graded difficulty while using your own music
-    fontawesome_icon_name                 : graduation-cap
+    fontawesome_icon_name                 : list
 
   - title                                 : Track progress
     description                           : Always know how you're doing and what to practice next
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : graduation-cap
 
 # Theme Settings
 topbar_color                              : "#000000"
